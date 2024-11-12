@@ -2,7 +2,7 @@
 
 # Hello,  I am Zubair Khalid
 
-- 🔭 I’m currently exploring latest trends.
+Exploring the world of technology.
 
 - 🌍 Pakistan
 - ✉️ Contact me at [zubairkhalid618@gmail.com](mailto:zubairkhalid618@gmail.com)
